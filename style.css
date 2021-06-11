@@ -1,0 +1,22 @@
+.jumbotron{
+    background-color: blueviolet;
+    color: beige;
+    text-align: center;
+
+}
+#top{
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 100px;
+    height: 100px;
+    width: 100px;
+
+}
+.nav{
+    background-color: black;
+    
+}
+.btn-light{
+    background-color: rgb(139, green, blue);
+}
